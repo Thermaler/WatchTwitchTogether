@@ -1,0 +1,8 @@
+{
+    "extends": ["plugin:react/recommended"],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "tsx": true
+        }
+    }
+}
